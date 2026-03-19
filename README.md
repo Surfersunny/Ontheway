@@ -5,7 +5,7 @@
 
 ## 电机控制算法
 - 基本理论:BLDC的FOC,SVPWM,以及PMSM控制方法，MATLAB/Simulink仿真
-- 实践：参数辨识与标定，实现转矩，电流等多环控制，负载响应
+- 实践：熟练运用DSP,FPGA平台进行开发；参数辨识与标定，实现转矩，速度，电流等多环控制，负载响应
 
 ## 硬件
 - PSpice,Multisim仿真验证，PCB绘制→嘉立创EDA&AD
