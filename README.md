@@ -14,18 +14,23 @@
 ## 三、食用方法
 ### 1.CubeMX生成初始化代码 
 　　引脚配置方法一样，只需在最后Generate Code前选择CMake工具链。
+  
   <img width="1541" height="700" alt="屏幕截图 2026-10-21 140737" src="https://github.com/user-attachments/assets/f731ce39-15b7-4da1-81ee-4dc2c4787565" />
 ### 2.VSCode编译+写代码
 　　直接拖入所生成文件夹（如下图） 或 VSCode主界面 - Open Folder
+  
   <img width="282" height="208" alt="image" src="https://github.com/user-attachments/assets/596e262c-9a2e-4e02-aee2-1dddb68a0c00" />
   
 　　打开命令面板（快捷键ctrl+shift+p) CMake:Select Configure Preset 选择Debug模式 
+  
   <img width="738" height="380" alt="image" src="https://github.com/user-attachments/assets/f5cc0df5-2f13-4295-a1cd-9290e8533658" />
   
 　　Build构建工程 - 将调用*CMake Ninja ARM-GNU-Toolchain*共同完成代码编译（分别生成 .obj 并链接得到 .elf 二进制文件） 
+  
   <img width="67" height="26" alt="image" src="https://github.com/user-attachments/assets/4a63cb2e-7569-455a-9bb6-af041ac0fab8" />
   
 　　前面配置均正确则应如下输出Build completed 及 exit code 0
+  
   <img width="1072" height="300" alt="image" src="https://github.com/user-attachments/assets/3a4cc866-9f49-4774-a47a-3382e8edf93f" />
   
   现在你已经完成了代码初始化及编译！
