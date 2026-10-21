@@ -36,6 +36,7 @@
   <img width="1072" height="300" alt="image" src="https://github.com/user-attachments/assets/3a4cc866-9f49-4774-a47a-3382e8edf93f" />
   
 　　现在你已经完成了代码初始化及编译！
+  
 　　建议实行模块化编程 → 新建用户文件夹Applications
   
 ### 3.OpenOCD烧录+调试
@@ -44,4 +45,4 @@
 - launch.json 确定调试文件（即.elf） 调试起点
 - openocd.cfg 确定调试器类型 芯片类型 调试速度指标
 
-　　对于**Jlink**调试，其实不建议使用OpenOCD（详见本帖 [https://blog.csdn.net/weixin_45467056/article/details/119886361]）推荐使用SEGGER官方的Ozone工具。
+　　对于**Jlink**调试，其实不建议使用OpenOCD，详见本帖 [CSDN](https://blog.csdn.net/weixin_45467056/article/details/119886361）推荐使用SEGGER官方的Ozone工具。
