@@ -37,7 +37,7 @@
   
 　　现在你已经完成了代码初始化及编译！
   
-　　建议实行模块化编程 → 新建用户文件夹User - Src/Inc 即可编制需要的算法代码
+　　建议实行模块化编程 → 新建用户文件夹User - Src/Inc 并对应修改 CMakelists.txt 后即可编制算法代码
 
   <img width="608" height="280" alt="image" src="https://github.com/user-attachments/assets/837648a8-2eec-4e94-a5ca-a9e407b7baf5" />
 
