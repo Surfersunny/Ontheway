@@ -15,7 +15,8 @@
 ### 1.CubeMX生成初始化代码 
 　　引脚配置方法一样，只需在最后Generate Code前选择CMake工具链。
   
-  <img width="1541" height="700" alt="屏幕截图 2026-10-21 140737" src="https://github.com/user-attachments/assets/f731ce39-15b7-4da1-81ee-4dc2c4787565" />
+  <img width="1541" height="700" alt="屏幕截图 2026-10-21 140737" src="https://github.com/user-attachments/assets/f731ce39-15b7-4da1-81ee-4dc2c4787565" />-
+  
 ### 2.VSCode编译+写代码
 　　直接拖入所生成文件夹（如下图） 或 VSCode主界面 - Open Folder
   
@@ -35,6 +36,7 @@
   
   现在你已经完成了代码初始化及编译！
   建议实行模块化编程 → 新建用户文件夹Applications
+  
 ### 3.OpenOCD烧录+调试
 　　**OpenOCD** （中文名开源片上调试器）提供了多元化跨平台的烧录调试选项，核心文件是 tasks.json launch.json openocd.cfg 三个配置文件。
     - tasks.json 指定任务名，任务应调用的执行器和执行文件
