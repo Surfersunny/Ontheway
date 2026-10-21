@@ -21,7 +21,7 @@
 　　直接拖入所生成文件夹（如下图） 或 VSCode主界面 - Open Folder
   
   <img width="282" height="208" alt="image" src="https://github.com/user-attachments/assets/596e262c-9a2e-4e02-aee2-1dddb68a0c00" />
-  <img width="311" height="380" alt="image" src="https://github.com/user-attachments/assets/1b77b8eb-6a3a-439b-8f42-faf5b9472f96" />
+  <img width="311" height="380" alt="屏幕截图 2026-10-21 143204" src="https://github.com/user-attachments/assets/3983d67d-37a1-4dfe-a4a7-c19e867b3891" />
 
 　　打开命令面板（快捷键ctrl+shift+p) CMake:Select Configure Preset 选择Debug模式 
   
