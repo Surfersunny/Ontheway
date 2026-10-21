@@ -21,7 +21,8 @@
 　　直接拖入所生成文件夹（如下图） 或 VSCode主界面 - Open Folder
   
   <img width="282" height="208" alt="image" src="https://github.com/user-attachments/assets/596e262c-9a2e-4e02-aee2-1dddb68a0c00" />
-  
+  <img width="311" height="380" alt="image" src="https://github.com/user-attachments/assets/1b77b8eb-6a3a-439b-8f42-faf5b9472f96" />
+
 　　打开命令面板（快捷键ctrl+shift+p) CMake:Select Configure Preset 选择Debug模式 
   
   <img width="738" height="380" alt="image" src="https://github.com/user-attachments/assets/f5cc0df5-2f13-4295-a1cd-9290e8533658" />
@@ -43,4 +44,4 @@
     - launch.json 确定调试文件（即.elf） 调试起点
     - openocd.cfg 确定调试器类型 芯片类型 调试速度指标
 
-　　对于**Jlink**调试，其实不建议使用OpenOCD（详见本帖 https://blog.csdn.net/weixin_45467056/article/details/119886361）推荐使用SEGGER官方的Ozone工具。
+　　对于**Jlink**调试，其实不建议使用OpenOCD（详见本帖 [https://blog.csdn.net/weixin_45467056/article/details/119886361]）推荐使用SEGGER官方的Ozone工具。
