@@ -42,7 +42,7 @@
   <img width="608" height="280" alt="image" src="https://github.com/user-attachments/assets/837648a8-2eec-4e94-a5ca-a9e407b7baf5" />
 
 ### 3.OpenOCD烧录+调试
-　　**OpenOCD** （中文名开源片上调试器）提供了多元化跨平台的烧录调试选项，核心文件是 tasks.json launch.json openocd.cfg 三个配置文件。
+　　**OpenOCD** （中文名开源片上调试器）提供了多元化跨平台的烧录调试选项，核心文件是 tasks.json launch.json openocd.cfg 三个配置文件（即本仓库所提供的 openocd.cfg 及 .vscode 文件夹，复制粘贴到工程文件夹即可）。
 - tasks.json 指定任务名，任务应调用的执行器和执行文件
 - launch.json 确定调试文件（即.elf） 调试起点
 - openocd.cfg 确定调试器类型 芯片类型 调试速度指标
