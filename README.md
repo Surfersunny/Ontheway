@@ -37,8 +37,10 @@
   
 　　现在你已经完成了代码初始化及编译！
   
-　　建议实行模块化编程 → 新建用户文件夹Applications
-  
+　　建议实行模块化编程 → 新建用户文件夹User - Src/Inc 即可编制需要的算法代码
+
+  <img width="608" height="280" alt="image" src="https://github.com/user-attachments/assets/837648a8-2eec-4e94-a5ca-a9e407b7baf5" />
+
 ### 3.OpenOCD烧录+调试
 　　**OpenOCD** （中文名开源片上调试器）提供了多元化跨平台的烧录调试选项，核心文件是 tasks.json launch.json openocd.cfg 三个配置文件。
 - tasks.json 指定任务名，任务应调用的执行器和执行文件
