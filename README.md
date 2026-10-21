@@ -45,4 +45,4 @@
 - launch.json 确定调试文件（即.elf） 调试起点
 - openocd.cfg 确定调试器类型 芯片类型 调试速度指标
 
-　　对于**Jlink**调试，其实不建议使用OpenOCD，详见本帖 [CSDN](https://blog.csdn.net/weixin_45467056/article/details/119886361）推荐使用SEGGER官方的Ozone工具。
+　　对于**Jlink**调试，其实不建议使用OpenOCD，详见本帖 [CSDN](https://blog.csdn.net/weixin_45467056/article/details/119886361) 推荐使用SEGGER官方的Ozone工具。
